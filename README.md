@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning FastAPI, Django and data analysis 
+I'm currently doing my bachelor degree in computer application and learning FastAPI, Django, data analysis and machine learning 
 
 
 ## 🌐 Socials:
