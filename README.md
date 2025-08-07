@@ -11,6 +11,5 @@ I'm a self-taught full-stack developer who enjoys building web applications with
 ## 📊 GitHub Stats
 
 ![Amar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sthamar&show_icons=true&hide_title=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sthamar&layout=compact&theme=tokyonight)
 
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sthamar&theme=tokyonight)
