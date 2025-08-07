@@ -4,7 +4,7 @@ I'm a self-taught full-stack developer who enjoys building web applications with
 
 - 🔭 Working on: loop – an activity tracking system
 - 🌱 Learning: AI, DSA, and system design
-- 📺 I also share coding tutorials on [YouTube]([https://youtube.com/@yourchannel](https://www.youtube.com/@monkey-d4p8x))
+- 📺 I also share coding tutorials on [YouTube]([(https://www.youtube.com/@monkey-d4p8x)])
 - 💬 Ask me about: Python, FastAPI, Svelte, and PostgreSQL
 - 📫 Reach me: [sthamar2627@gmail.com](mailto:sthamar2627@gmail.com)
 
