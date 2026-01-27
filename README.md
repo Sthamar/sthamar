@@ -5,7 +5,7 @@ I'm a self-taught full-stack developer who enjoys building web applications with
 - 🔭 Working on: **loop** – an activity tracking system  
 - 🌱 Learning: **AI**, **DSA**, and **System Design**  
 - 📺 I also share coding tutorials on [YouTube](https://www.youtube.com/@monkey-d4p8x)  
-- 💬 Ask me about: **Python**, **FastAPI**, **Svelte**, and **PostgreSQL**  
+- 💬 Ask me about: **Python**, **FastAPI**, **Svelte**, **React**, **NEXTjs**, **Django**, and **PostgreSQL**  
 - 📫 Reach me: [sthamar2627@gmail.com](mailto:sthamar2627@gmail.com)  
 
 ## 📊 GitHub Stats
