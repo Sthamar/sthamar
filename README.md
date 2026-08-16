@@ -13,8 +13,3 @@ Python and full-stack developer from Nepal, building REST APIs and web applicati
 
 - **[FlipHub](https://fliphub.online)** — Furniture & home-design e-commerce storefront. Built the backend (REST APIs, product/order data, async tasks) with Django REST Framework, PostgreSQL, Redis, and Celery, behind a Next.js frontend.
 - **[Bachat](https://bachat.sthamar.com)** — A free personal finance tracker for income/expenses, savings goals, and debt tracking. Built solo, end to end, with SvelteKit and TailwindCSS/DaisyUI.
-
-## 📊 GitHub Stats
-
-![Amar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sthamar&show_icons=true&hide_title=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sthamar&layout=compact&theme=tokyonight)
